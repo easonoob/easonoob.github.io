@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_site=self.webpackChunkdocusaurus_site||[]).push([[6843],{8209:s=>{s.exports=JSON.parse('{"label":"qnn","permalink":"/blog/tags/qnn","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);
