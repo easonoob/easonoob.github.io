@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_site=self.webpackChunkdocusaurus_site||[]).push([[9753],{3093:s=>{s.exports=JSON.parse('{"label":"pytorch","permalink":"/blog/tags/pytorch","allTagsPath":"/blog/tags","count":2,"unlisted":false}')}}]);
