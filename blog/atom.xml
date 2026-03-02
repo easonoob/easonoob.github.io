@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://easonoob.github.io/blog</id>
-    <title>My Site Blog</title>
+    <title>My Website Blog</title>
     <updated>2025-03-06T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://easonoob.github.io/blog"/>
-    <subtitle>My Site Blog</subtitle>
+    <subtitle>My Website Blog</subtitle>
     <icon>https://easonoob.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Post-hackathon analysis of Efficient Gaussian State Preparation]]></title>
