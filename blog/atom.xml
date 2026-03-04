@@ -81,7 +81,7 @@ M834 80h400000v40h-400000z"></path></svg></span></span></span><span class="vlist
 <p>As always, questions and feedback are welcome! I invite interested readers to connect and discuss further with us on <a href="https://www.linkedin.com/in/eason-xie-21b55a34a" target="_blank" rel="noopener noreferrer" class="">my LinkedIn</a> or <a href="https://www.linkedin.com/company/classiq-technologies" target="_blank" rel="noopener noreferrer" class="">Classiq's LinkedIn</a>. I look forward to engaging conversations and future opportunities to collaborate within the growing field of quantum computing.</p>
 <p>Stay tuned for the third blog post, where we will discuss about the underlying mathematical framework and share our latest progress on how to avoid the "shoulder" problem!</p>]]></content>
         <author>
-            <name>Eason Xie</name>
+            <name>Eason</name>
             <uri>https://easonoob.github.io</uri>
         </author>
         <category label="advanced" term="advanced"/>
@@ -331,7 +331,7 @@ M1001 80h400000v40h-400000z"></path></svg></span></span></span><span class="vlis
 <h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="acknowledgements">Acknowledgements<a href="https://easonoob.github.io/blog/mit-iquhack-solution#acknowledgements" class="hash-link" aria-label="Direct link to Acknowledgements" title="Direct link to Acknowledgements" translate="no">​</a></h2>
 <p>We thank MIT and Classiq for organizing MIT iQuHACK 2025, and we extend our gratitude to the mentors and judges for their invaluable guidance and support throughout the competition.</p>]]></content>
         <author>
-            <name>Eason Xie</name>
+            <name>Eason</name>
             <uri>https://easonoob.github.io</uri>
         </author>
         <category label="advanced" term="advanced"/>
@@ -816,7 +816,7 @@ M834 80h400000v40h-400000z"></path></svg></span></span></span><span class="vlist
 <li class="">Implement Grover's Algorithm for an unstructured search that finds with high probability the unique input to a black box function that produces a particular output value.</li>
 </ol>]]></content>
         <author>
-            <name>Eason Xie</name>
+            <name>Eason</name>
             <uri>https://easonoob.github.io</uri>
         </author>
         <category label="beginners" term="beginners"/>
@@ -890,7 +890,7 @@ M834 80h400000v40h-400000z"></path></svg></span></span></span><span class="vlist
 <li class="">Experiment with different learning rate, batch size, and model architecture, how does it affect the results?</li>
 </ol>]]></content>
         <author>
-            <name>Eason Xie</name>
+            <name>Eason</name>
             <uri>https://easonoob.github.io</uri>
         </author>
         <category label="beginners" term="beginners"/>
@@ -986,7 +986,7 @@ M834 80h400000v40h-400000z"></path></svg></span></span></span><span class="vlist
 </ol>
 <p>Feel free to send me an email for your solutions to the above tasks!</p>]]></content>
         <author>
-            <name>Eason Xie</name>
+            <name>Eason</name>
             <uri>https://easonoob.github.io</uri>
         </author>
         <category label="beginners" term="beginners"/>
@@ -1003,7 +1003,7 @@ M834 80h400000v40h-400000z"></path></svg></span></span></span><span class="vlist
         <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="Website Launch" src="https://easonoob.github.io/assets/images/website-launch-060db6baab41c286ec9381513050efa8.jpg" width="1024" height="768" class="img_ev3q"></p>
 <p>The website is launched today at 00:00 UTC+0!</p>]]></content>
         <author>
-            <name>Eason Xie</name>
+            <name>Eason</name>
             <uri>https://easonoob.github.io</uri>
         </author>
         <category label="hola" term="hola"/>
